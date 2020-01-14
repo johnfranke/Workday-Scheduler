@@ -1,0 +1,33 @@
+.time-area {
+    background-color: #4c5f7d;
+    color: white;
+    font-weight: bold;
+    border-bottom: 1px solid white; 
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    text-align: right;
+    padding: 10px;
+}
+
+.past {
+    background-color: #515761;
+    color: white;
+}
+  
+.present {
+    background-color: lightsteelblue;
+}
+  
+.future {
+    background-color: whitesmoke;
+}
+
+#today {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: #4275c7;
+    border-bottom: 1px solid white; 
+    color: white;
+}
