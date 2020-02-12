@@ -6,4 +6,4 @@ This is a work day scheduler. This app allows a user to input text into a certai
 
 The current day and time is displayed near the top of the calendar. Also, each timeblock is color coded to indicate whether it is in a past, present, or future hour.
 
-You can view the deployed application here: https://johnfranke.github.io/
+You can view the deployed application here: https://johnfranke.github.io/Workday-Scheduler/
