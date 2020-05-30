@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 4em;
+}
+
+.lead {
+    background: white;
+    transform: rotate(3deg);
+}
+.lead2 {
+    background: white;
+    transform: rotate(1deg);
+}
+
 .time-area {
     background-color: #4c5f7d;
     color: white;
