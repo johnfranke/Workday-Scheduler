@@ -1,28 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
+.jumbotron {
+    padding: 25px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
 h1 {
     font-family: 'Bebas Neue', cursive;
     font-size: 4em;
+    /* background: white; */
+    transform: rotate(-1deg);
+
 }
 
 .lead {
-    background: white;
+    background: rgb(247, 41, 137);
+    color: white;
     transform: rotate(3deg);
 }
 .lead2 {
-    background: white;
+    background: rgb(46, 193, 252);
+    color: white;
     transform: rotate(1deg);
+    font-size: 1.5em;
 }
 
 .time-area {
     background-color: #4c5f7d;
     color: white;
     font-weight: bold;
-    border-bottom: 1px solid white; 
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
+    /* border-bottom: 1px solid white;  */
+    /* border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px; */
     text-align: right;
     padding: 10px;
+    margin-bottom: 5px;
+    /* transform: rotate(-2deg); */
+}
+
+textarea {
+    border: 0px;
+    margin-bottom: 5px;
+    background-color: white;
+    /* transform: rotate(1deg); */
 }
 
 .past {
@@ -46,5 +65,8 @@ h1 {
     background-color: #4275c7;
     border-bottom: 1px solid white; 
     color: white;
+    margin-bottom: 4px;
+    border-radius: 0px;
+    /* transform: rotate(-1deg); */
 
 }
