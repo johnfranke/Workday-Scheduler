@@ -14,13 +14,20 @@ The current day and time is displayed near the top of the calendar. Also, each t
 
 ## Technologies Used
 
-*VS Code
-*HTML
-*CSS
-*JavaScript
-*JQuery
-*Moment.js Library
-*localStorage
-*Bootstrap
+VS Code
+
+HTML
+
+CSS
+
+JavaScript
+
+JQuery
+
+Moment.js
+
+localStorage
+
+Bootstrap
 
 
