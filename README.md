@@ -5,6 +5,7 @@ You can view the deployed application here: https://johnfranke.github.io/Workday
 ## Preview
 
 ![Preview Image](preview.png)
+![Preview Image](preview2.png)
 
 ## Description
 
